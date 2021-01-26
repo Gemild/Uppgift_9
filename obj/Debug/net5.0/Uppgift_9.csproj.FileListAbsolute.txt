@@ -1,0 +1,16 @@
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.exe
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.deps.json
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.runtimeconfig.json
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.runtimeconfig.dev.json
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.dll
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\ref\Uppgift_9.dll
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\bin\Debug\net5.0\Uppgift_9.pdb
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.csprojAssemblyReference.cache
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.AssemblyInfoInputs.cache
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.AssemblyInfo.cs
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.csproj.CoreCompileInputs.cache
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.dll
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\ref\Uppgift_9.dll
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.pdb
+C:\Users\emilj\OneDrive\Dokument\GitHub\Uppgift_9\obj\Debug\net5.0\Uppgift_9.genruntimeconfig.cache
