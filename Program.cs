@@ -14,10 +14,12 @@ namespace Uppgift_9
             bool repeat = true; 
             string YesOrNo;
 
+            Console.WriteLine("Welcome to rock, paper, scissor!\n");
+
             while (repeat == true)
             {           
             
-                Console.WriteLine("Hello! Press 1 for rock, 2 for paper & 3 for scissor");
+                Console.WriteLine("Press 1 for rock, 2 for paper & 3 for scissor");
             
                 userPick = Convert.ToInt32(Console.ReadLine());
                 computerPick = numberGenerator.Next(1,4);
@@ -88,11 +90,9 @@ namespace Uppgift_9
                 {
                     repeat = false;
                     Console.WriteLine("Bye bye!");
-                    Console.ReadLine();
                 }                    
             }
             Console.ReadKey();
         }
-    }    
-    
+    }        
 }
